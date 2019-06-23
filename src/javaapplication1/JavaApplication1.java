@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         // Comment added
         // Comment added from jetBRAINS
+        // Comment added from VSCode
     }
     
 }
