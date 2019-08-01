@@ -20,6 +20,7 @@ public class JavaApplication1 {
         // Comment added from jetBRAINS
         // Comment added from VSCode
         System.out.print("Vishwanath Subbanna");
+        DataInputStream in=new DataInutStream(System.in);
     }
     
 }
